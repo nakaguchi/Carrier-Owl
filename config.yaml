@@ -3,9 +3,10 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        surgery: 3
+        laparo: 3
+        augmented reality: 3
+        SOTA: 1
 
 # 通知の閾値
 score_threshold: 0
